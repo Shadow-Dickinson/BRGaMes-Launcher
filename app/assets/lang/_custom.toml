@@ -1,18 +1,18 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "BRGaMes Network 1.9.2"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
-mediaXURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaGitHubURL = "https://brgamesnetwork.com"
+mediaXURL = "https://twitter.com/brgamesnetwork"
+mediaInstagramURL = "https://instagram.com/brgames_network"
+mediaYouTubeURL = "https://www.youtube.com/channel/UCNNe7EDm1UHiduyjUKFaqFw?view_as=subscriber"
+mediaDiscordURL = "https://discord.gg/ne2r2p3WHK"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://brgamesnetwork.com"
+supportLink = "https://brgamesnetwork.com"
 
 [ejs.welcome]
 welcomeHeader = "WELCOME TO WESTEROSCRAFT"
