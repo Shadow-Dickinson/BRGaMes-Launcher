@@ -1,6 +1,6 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="https://i.imgur.com/0gc25NI.png" width="150px" height="150px" alt="BRGaMes Network"></p>
 
-<h1 align="center">Helios Launcher</h1>
+<h1 align="center">BRGaMes Network Launcher</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
